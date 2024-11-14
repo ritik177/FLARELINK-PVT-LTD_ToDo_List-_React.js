@@ -25,7 +25,7 @@ To set up and launch the Task Manager App, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd task-manager-app
+   cd FLARELINK-PVT-LTD_ToDo_List_React
 
 3. Install the dependencies:
    ```bash
